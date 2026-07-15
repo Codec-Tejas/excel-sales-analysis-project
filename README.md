@@ -56,23 +56,6 @@ This dashboard was built to answer all of the above — in one place, at a glanc
 **Product Categories Covered:**  
 Kurta · Set · Saree · Western Dress · Top · Blouse · Bottom · Ethnic Dress
 
----
-
-## 📈 Key Performance Indicators (KPIs)
-
-| KPI | Description |
-|-----|-------------|
-| **Total Revenue (INR)** | Sum of all order amounts across the year |
-| **Total Orders** | Count of unique orders placed |
-| **Delivery Rate** | % of orders successfully delivered |
-| **Cancellation Rate** | % of orders cancelled before fulfilment |
-| **Return & Refund Rate** | % of orders returned or refunded post-delivery |
-| **Top Channel Share** | Revenue contribution % by marketplace |
-| **Women vs. Men Sales Split** | Gender-based revenue share |
-| **Top 3 States by Revenue** | Highest-contributing states for strategic focus |
-| **Peak Sales Month** | Month with highest order volume and revenue |
-
----
 
 ## 🖥️ Dashboard Features
 
