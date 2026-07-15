@@ -168,7 +168,7 @@ A **92% delivery success rate** is a strong operational signal. However, a combi
 
 ## 📸 Dashboard Preview
 
-![E-Commerce Sales Analytics Dashboard](dashboard_preview.png)
+![E-Commerce Sales Analytics Dashboard](Dashboard/dashboard_preview.png)
 
 > *Interactive dashboard with slicers for Month, Channel, Category, and Order Status. All charts update dynamically based on slicer selection.*
 
